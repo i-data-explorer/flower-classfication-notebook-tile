@@ -8,6 +8,8 @@
   "cover": "cover.md",
   "use_explorer_dataset": true,
   "explorer_catalog_id": "flower_classification_dataset",
+  "is_s3_explorer_catalog": false,
+  "buckets":[],
   "meta": {
     "Install time": [
       "2 minutes"
