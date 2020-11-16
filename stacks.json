@@ -1,0 +1,14 @@
+{
+  "title": "Flower Classification Notebook",
+  "description": "Notebook for flower classifications",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": ["Notebook"],
+  "de_catalog_id": "flower_classification_notebook",
+  "categories": [
+    "Environment"
+  ],
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "2 minutes",
+}
