@@ -7,14 +7,9 @@
   "source_repo": "https://github.com/i-data-explorer/flower-classification-notebook.git",
   "cover": "cover.md",
   "use_explorer_dataset": true,
-  "explorer_catalog_id": "nasa-nex-dataset",
-  "is_s3_explorer_catalog": true,
-  "buckets":[
-    "nasanex:/NEX-DCP30",
-    "nasanex:/NEX-GDDP",
-    "nasanex:/LOCA",
-    "nasanex:/MODIS",
-    "nasanex:/Landsat"],
+  "explorer_catalog_id": "flower_classification_dataset",
+  "is_s3_explorer_catalog": false,
+  "buckets":[],
   "meta": {
     "Install time": [
       "2 minutes"
@@ -29,7 +24,7 @@
       "Environment"
     ],
     "Catalog Id": [
-      "nasa-nex-dataset"
+      "flower_classification_notebook"
     ]
   }
 }
