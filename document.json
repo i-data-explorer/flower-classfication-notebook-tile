@@ -6,7 +6,7 @@
   "de_catalog_id": "flower_classification_notebook",
   "source_repo": "https://github.com/i-data-explorer/flower-classification-notebook.git",
   "cover": "cover.md",
-  "use_explorer_dataset": true,
+  "use_explorer_dataset": false,
   "explorer_catalog_id": "flower_classification_dataset",
   "is_s3_explorer_catalog": false,
   "buckets":[],
