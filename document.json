@@ -1,7 +1,7 @@
 {
   "name": "Flower Classification Notebook",
   "description": "Notebook for flower classifications",
-  "logo": "_images/dataset.png",
+  "logo": "_images/notebook.png",
   "has_supporting_content": false,
   "de_catalog_id": "flower_classification_notebook",
   "source_repo": "https://github.com/i-data-explorer/flower-classification-notebook.git",
